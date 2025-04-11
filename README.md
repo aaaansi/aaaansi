@@ -1,16 +1,20 @@
-# Hamzah Alansi
+# Hey, I'm Hamzah 👋
 
-Computer Science Finalist | Aspiring Cloud Engineer
+I’m a SWE currently exploring **Flutter** and enjoying the challenge. Always looking to learn and build things that push me forward.
 
-🎓 Bachelor of Science in Computer Science with a Minor in Information Science, University of Otago
+---
 
-💻 Currently an ambitious software engineer with a strong interest in cloud engineering. I specialize in designing and developing scalable and robust applications using various programming languages and technologies.
+## Tech
+- **Flutter/Dart**  
+- Java, C++ 
+- Some **JS** and **Python**
 
-Skills and Technologies:
-- Proficient in Java, Python, C++, HTML/CSS, SQL, JavaScript
-- Familiar with cloud platforms such as AWS (beginner level)
-- Experience with version control systems like Git
-- Knowledge of Agile development methodologies, particularly Scrum
-- Strong problem-solving and troubleshooting abilities
+---
 
-🌩️ Passionate about cloud engineering and leveraging cloud technologies to build scalable and resilient solutions. Currently exploring AWS and Azure services to enhance my cloud engineering skills.
+## Outside the Code
+When I’m not coding, I’m either in the gym, playing games, swimming, or trying out kickboxing/MMA.
+
+---
+
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/hamzah-alansi-712300274/)
