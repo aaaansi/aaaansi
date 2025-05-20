@@ -17,4 +17,5 @@ When I’m not coding, I’m either in the gym, playing games, swimming, or tryi
 ---
 
 ## Let's Connect
+My contributions are unfortunately private and under my work account [@FPA-HamzahAlansi](https://github.com/FPA-HamzahAlansi?tab=overview&from=2025-05-01&to=2025-05-20)
 [LinkedIn](https://www.linkedin.com/in/hamzah-alansi-712300274/)
